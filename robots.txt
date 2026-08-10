@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: ezhenedelnye-turniry.github.io
+Sitemap: https://ezhenedelnye-turniry.github.io/sitemap.xml
